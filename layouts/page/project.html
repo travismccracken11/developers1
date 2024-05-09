@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{ $project := (index .Site.Data.projects .Params.project) }}
+<div class="hero-sub-section" id="customHeroSub">
+    <section class="custom-hero-container container">
+        <div class="custom-hero-logo-wrapper">
+            <img src="/images/projects/{{$project.logo}}" alt="project logo">
+        </div>
+        <div class="custom-hero-content">
+            <h2>{{ $project.title }}</h2>
+            <h3>{{ $project.category }}</h3>
+            <p>GitHub: <a href="https://github.com/{{$project.gitHubRepo}}" target="_blank">@{{$project.gitHubRepo}}</a>
+            </p>
+            {{ if $project.additionalGitHubRepos -}}
+            {{ range $project.additionalGitHubRepos }}
+            <p>GitHub: <a href="https://github.com/{{.}}" target="_blank">@{{.}}</a></p>
+            {{ end }}
+            {{ end -}}
+            <p>Contribute: <a href="https://github.com/{{$project.gitHubRepo}}/contribute" target="_blank">@{{$project.gitHubRepo}}/contribute</a>
+            </p>
+        </div>
+        <div class="custom-hero-content">
+            <p>{{$project.description | markdownify}}</p>
+        </div>
+    </section>
+</div>
+<div class="project-category">
+    <div class="container">
+        <div class="image" id="customImageSection">
+            <h2 style="color:#083A62;margin-bottom: 10px;">Individual Contributors</h2>
+            {{ partial "partials/contributors.html" (dict "gitHubRepo" $project.gitHubRepo)}}
+        </div>
+    </div>
+</div>
+{{ end }}

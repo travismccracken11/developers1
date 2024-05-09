@@ -1,0 +1,8 @@
+title: "C++ SDK"
+description: "The C++ SDK for interacting with a Hashgraph based network:
+    the official distributed consensus platform built using the Hashgraph consensus algorithm for fast, fair, and secure transactions."
+gitHubRepo: "hashgraph/hedera-sdk-cpp"
+logo: "cpp-sdk.svg"
+url: /projects/sdk-cpp
+state: "sandbox"
+category: "SDK"

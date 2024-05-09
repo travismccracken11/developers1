@@ -1,0 +1,8 @@
+title: "MyHBARWallet"
+description: "MyHbarWallet is a free, client-side interface that helps you interact with a Hashgraph based network.
+    It supports generating keys, creating accounts, transferring HBARs, and much more."
+gitHubRepo: "hashgraph/MyHbarWallet"
+logo: "my-hbar-wallet.svg"
+url: /projects/my-hbar-wallet
+state: "sandbox"
+category: "Wallet"

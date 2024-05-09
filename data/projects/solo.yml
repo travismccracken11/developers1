@@ -1,0 +1,8 @@
+title: "Solo"
+description: "Solo is the full stack testing framework and associated tools for conducting end-to-end and full stack tests against the Hashgraph network software.
+    Designed with ease of use in mind, the tools are purpose built for the community and open-source contributors."
+gitHubRepo: "hashgraph/solo"
+logo: "full-stack.svg"
+url: /projects/solo
+state: "sandbox"
+category: "Ledger"

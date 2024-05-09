@@ -1,0 +1,9 @@
+title: "Hashport"
+description: "The Hashport React Client, SDK, and Widget offer tools for integrating Hashport’s bridging functionality into applications.
+    The React Client provides React contexts and hooks for custom UI integration, the SDK facilitates easy addition of cross-chain transactions for both fungible and non-fungible tokens, and the Widget offers a styled, ready-to-use interface complete with state management and wallet connectors.
+    These tools cater to developers looking for flexible, efficient solutions to enable asset bridging in their projects."
+gitHubRepo: "BCWResearch/hashport-framework"
+logo: "hashport.svg"
+url: /projects/hashport
+state: "graduated"
+category: "Bridge"

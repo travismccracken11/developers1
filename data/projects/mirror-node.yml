@@ -1,0 +1,9 @@
+title: "Mirror Node"
+description: "The Mirror Node acts as an archive node and stores historical data for a Hashgraph based network.
+    The node consumes the blockchain provided by Consensus Nodes and may provide value-added services such as APIs, auditing, analytics, visibility services, security threat modeling, data monetization services, etc.
+    The node can also run additional business logic to support applications."
+gitHubRepo: "hashgraph/hedera-mirror-node"
+logo: "mirror-node.svg"
+url: /projects/mirror-node
+state: "graduated"
+category: "Archive"

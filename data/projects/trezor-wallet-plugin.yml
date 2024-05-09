@@ -1,0 +1,8 @@
+title: "Trezor Wallet Plugin"
+description: "This plugin seamlessly integrates Trezor Firmware with Trezor wallets, enhancing functionality to support
+    a Hashgraph based network enabling users to securely manage assets with ease."
+gitHubRepo: "hashgraph/trezor-firmware"
+logo: "trezor.svg"
+url: /projects/trezor-wallet-plugin
+state: "sandbox"
+category: "Wallet"

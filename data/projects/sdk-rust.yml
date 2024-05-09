@@ -1,0 +1,8 @@
+title: "Rust SDK"
+description: "The Rust SDK for interacting with a Hashgraph based network:
+    the official distributed consensus platform built using the Hashgraph consensus algorithm for fast, fair, and secure transactions."
+gitHubRepo: "hashgraph/hedera-sdk-rust"
+logo: "rust-sdk.svg"
+url: /projects/sdk-rust
+state: "sandbox"
+category: "SDK"

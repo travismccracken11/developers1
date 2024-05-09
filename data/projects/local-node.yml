@@ -1,0 +1,9 @@
+title: "Local Stack"
+description: "The Local Stack project allows developers to set up their own local network.
+    The local network is composed of one Mirror Node and one Consensus Node.
+    You can set this up using the CLI tool or running Docker."
+gitHubRepo: "hashgraph/hedera-local-node"
+logo: "local-stack.svg"
+url: /projects/local-node
+state: "sandbox"
+category: "Ledger"

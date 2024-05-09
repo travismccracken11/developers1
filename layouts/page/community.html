@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+<div class="hero-sub-section community-hero">
+    <div class="overlay">
+        <div class="container">
+            <div class="caption">
+                <div class="heading">
+                    <h2>Community</h2>
+                    <p>Welcome to the Hedera projects, a diverse community of developers, dreamers, and
+                        builders working to make the world more fair, fast, and secure.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="contributor-section" id="individual-contributors">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="heading">
+                    <h2>Individual Contributors</h2>
+                    <p>The following individuals have contributed to the development Hedera.</p>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                {{ partial "partials/contributors.html" (dict "gitHubRepo" "hashgraph/hedera-services")}}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="contributor-section" id="companies">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="heading">
+                    <h2>Contributing Companies</h2>
+                    <p>The following companies are members of the Hedera projects and contribute to the development
+                        of Hedera.</p>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="logos logos-with-gap contributing-members" style="width: 100%">
+                    {{ range site.Data.contributingCompanies }}
+                    <div class="logo">
+                        <img src="/images/members/{{ .logo}}" alt=" logo" loading="lazy" data-cmp-ab="2"
+                             data-cmp-info="10">
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

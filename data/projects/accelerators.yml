@@ -1,0 +1,12 @@
+title: "Accelerators"
+description: "The DEX UI and DEX UI Components serve as accelerators for building a Decentralized Exchange on a Hashgraph based network.
+    The DEX UI leverages React primitives from the DEX UI component library, facilitating the creation of user-friendly, efficient, and scalable DEX interfaces.
+    These tools are designed for developers looking to contribute to or develop their own DEX platforms within the ecosystem, streamlining the process with ready-to-use components and a comprehensive UI framework."
+gitHubRepo: "hashgraph/hedera-accelerator-defi-dex"
+additionalGitHubRepos:
+  - 'hashgraph/hedera-accelerator-defi-dex-ui'
+  - 'hashgraph/hedera-accelerator-defi-dex-ui-components'
+logo: "accelerators.svg"
+url: /projects/accelerators
+state: "sandbox"
+category: "Accelerator"

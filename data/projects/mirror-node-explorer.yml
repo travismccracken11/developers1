@@ -1,0 +1,8 @@
+title: "Mirror Node Explorer"
+description: "A visual Explorer for a Hashgraph ledger.
+    A publicly hosted version of the Hedera public network is available at [https://hashscan.io/mainnet/dashboard](https://hashscan.io/mainnet/dashboard)."
+gitHubRepo: "hashgraph/hedera-mirror-node-explorer"
+logo: "mirror-node-explorer.svg"
+url: /projects/mirror-node-explorer
+state: "graduated"
+category: "Explorer"

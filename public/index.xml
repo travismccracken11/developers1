@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hedera Developers and Projects</title>
+    <link>https://hedera-developers.netlify.app/</link>
+    <description>Recent content on Hedera Developers and Projects</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://hedera-developers.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/hips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/hips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/join/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/accelerators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/accelerators/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/consensus-node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/consensus-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/did/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/did/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/guardian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/guardian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/hashport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/hashport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/json-rpc-relay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/json-rpc-relay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/local-node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/local-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/mirror-node-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/mirror-node-explorer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/mirror-node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/mirror-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/my-hbar-wallet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/my-hbar-wallet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/pbj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/pbj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-cpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-cpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/sdk-swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/sdk-swift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/solo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/solo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/stable-coin-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/stable-coin-studio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/transaction-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/transaction-tool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/trezor-wallet-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/trezor-wallet-plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hedera-developers.netlify.app/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contributor Covenant Code of Conduct</title>
+      <link>https://hedera-developers.netlify.app/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/code-of-conduct/</guid>
+      <description>Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
+    </item>
+    <item>
+      <title>Join as Company Form</title>
+      <link>https://hedera-developers.netlify.app/join-company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/join-company/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Join as Individual Form</title>
+      <link>https://hedera-developers.netlify.app/join-individual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/join-individual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survey</title>
+      <link>https://hedera-developers.netlify.app/survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hedera-developers.netlify.app/survey/</guid>
+      <description> Create your own user feedback survey </description>
+    </item>
+  </channel>
+</rss>

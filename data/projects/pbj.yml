@@ -1,0 +1,13 @@
+title: "PBJ"
+description: "PBJ - Protocol Buffers is an advanced alternative to Google’s Protocol Buffers, offering a code generator,
+    parser, and library specifically designed for Java. It focuses on three main objectives: creating Java Record
+    Objects from proto files with a clean API, optimizing for performance to match or exceed Google’s ProtoC-generated
+    code, and minimizing garbage generation to reduce Java object overhead. Balancing these goals, PBJ seeks the optimal
+    blend of code quality and performance efficiency. The project is used by the Consensus Node to model the Hashgraph API
+    (HAPI), the generated blockchain, and the merkle tree state for Consensus Nodes. It is generally useful for any Java
+    project that needs to parse protobuf."
+gitHubRepo: "hashgraph/pbj"
+logo: "pbj.svg"
+url: /projects/pbj
+state: "sandbox"
+category: "Library"

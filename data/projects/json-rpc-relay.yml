@@ -1,0 +1,9 @@
+title: "JSON RPC Relay"
+description: "Allows Ethereum clients to interact with a Hashgraph based network.
+    This project is an implementation of the Ethereum JSON RPC APIs that delegates to both the Consensus and Mirror Nodes to fulfill the JSON RPC specification.
+    Anyone can host a relay."
+gitHubRepo: "hashgraph/hedera-json-rpc-relay"
+logo: "json-rpc-relay.svg"
+url: /projects/json-rpc-relay
+state: "graduated"
+category: "Ethereum RPC Relay"

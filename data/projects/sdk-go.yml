@@ -1,0 +1,8 @@
+title: "Go SDK"
+description: "The Go SDK for interacting with a Hashgraph based network:
+    the official distributed consensus platform built using the Hashgraph consensus algorithm for fast, fair, and secure transactions."
+gitHubRepo: "hashgraph/hedera-local-node"
+logo: "go-sdk.svg"
+url: /projects/sdk-go
+state: "incubating"
+category: "SDK"

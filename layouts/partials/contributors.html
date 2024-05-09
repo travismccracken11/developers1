@@ -1,0 +1,29 @@
+<div class="contributors-container">
+    <div id="contributors" class="contributors"></div>
+    <script type="text/javascript">
+      fetch('https://api.github.com/repos/{{.gitHubRepo}}/contributors?per_page=100')
+      .then(res => res.json())
+      .then(data => {
+        console.log('Checkout this JSON! ', data);
+        const div = document.getElementById('contributors');
+        for (var i = 0; i < data.length; i++) {
+          const contributor = data[i];
+          if(contributor.type == 'User' && contributor.login != 'swirlds-automation' && contributor.login != 'gitbook-bot' && contributor.login != 'hedera-github-bot') {
+            const childDiv = document.createElement('a');
+            childDiv.setAttribute('href', contributor.html_url);
+            childDiv.setAttribute('target', '_blank'); // Open in a new tab
+            childDiv.setAttribute('class', 'contributor');
+            childDiv.innerHTML =
+                '<img class="contributor-icon" src="' + contributor.avatar_url + '" /><div class="userName">@'
+                + contributor.login + '</div>';
+            div.appendChild(childDiv);
+          }
+        }
+        // Reset scroll position to the top after content is loaded
+        div.scrollTop = 0;
+      })
+      .catch(err => {
+        throw err
+      });
+    </script>
+</div>

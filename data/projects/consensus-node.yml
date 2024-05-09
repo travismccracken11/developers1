@@ -1,0 +1,9 @@
+title: "Consensus Node"
+description: 'The Consensus Node is the core software that runs a Hashgraph based network.
+    The node is responsible for maintaining the public ledger, holding all accounts, running the Consensus Service, the Token Service, and the Smart Contract Service.
+    The node is written in Java and runs on the JVM.'
+gitHubRepo: "hashgraph/hedera-services"
+logo: "hashgraph-node.svg"
+url: /projects/consensus-node
+state: "graduated"
+category: "Hashgraph Consensus"

@@ -1,0 +1,11 @@
+title: "Transaction Tool"
+description: "The Transaction Tool is an application capable of signing and submitting transactions to a Hashgraph based network.
+    It was designed to support multi-sig operations such as those required by the Hedera governing council.
+    Currently, this tool should be considered a demo application and unsuitable for widespread use.
+    A new implementation of the transaction tool is under construction.
+    It will be generally useful for developers using the network to create, sign, and submit every kind of transaction to a Hashgraph ledger."
+gitHubRepo: "hashgraph/hedera-transaction-tool-demo"
+logo: "transaction-tool.svg"
+url: /projects/transaction-tool
+state: "sandbox"
+category: "Wallet"

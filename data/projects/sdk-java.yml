@@ -1,0 +1,8 @@
+title: "Java SDK"
+description: "The Java SDK for interacting with a Hashgraph based network:
+    the official distributed consensus platform built using the Hashgraph consensus algorithm for fast, fair, and secure transactions."
+gitHubRepo: "hashgraph/hedera-sdk-java"
+logo: "java-sdk.svg"
+url: /projects/sdk-java
+state: "incubating"
+category: "SDK"

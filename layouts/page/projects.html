@@ -1,0 +1,92 @@
+{{ define "main" }}
+<div class="hero-sub-section">
+    <div class="overlay">
+        <div class="container">
+            <div class="caption">
+                <div class="heading">
+                    <h2>Hedera Projects</h2>
+                    <p>Projects are organized by category and by maturity. A project's maturity is a good indicator of
+                        how widespread its adoption is, and whether it is appropriate for your use case.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-category">
+    <div class="container">
+        <div class="image">
+            <img class="desktop-view" src="/images/projects-overview-desktop.jpg">
+            <img class="mobile-view" src="/images/projects-overview-mobile.jpg">
+        </div>
+    </div>
+</div>
+<div class="project-section">
+    <div class="container">
+        <div class="heading">
+            <h2>Graduated Projects</h2>
+            <p>Stable and Secure</p>
+        </div>
+        <div class="project-element">
+            <div class="row">
+                {{ range $project := .Site.Data.projects }}
+                    {{ if eq $project.state "graduated" }}
+                        <a href="{{ $project.url }}">
+                            <div class="card">
+                                <img src="/images/projects/{{ $project.logo }}">
+                                <h3>{{ $project.title }}</h3>
+                                <p>{{ $project.category }}</p>
+                            </div>
+                        </a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-section">
+    <div class="container">
+        <div class="heading">
+            <h2>Incubating Projects</h2>
+            <p>Growing in Maturity and Scope</p>
+        </div>
+        <div class="project-element">
+            <div class="row">
+                {{ range $project := .Site.Data.projects }}
+                    {{ if eq $project.state "incubating" }}
+                    <a href="{{ $project.url }}">
+                        <div class="card">
+                            <img src="/images/projects/{{ $project.logo }}">
+                            <h3>{{ $project.title }}</h3>
+                            <p>{{ $project.category }}</p>
+                        </div>
+                    </a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="project-section">
+    <div class="container">
+        <div class="heading">
+            <h2>Sandbox Projects</h2>
+            <p>Ready for Early Adopters</p>
+        </div>
+        <div class="project-element">
+            <div class="row">
+                {{ range $project := .Site.Data.projects }}
+                    {{ if eq $project.state "sandbox" }}
+                    <a href="{{ $project.url }}">
+                        <div class="card">
+                            <img src="/images/projects/{{ $project.logo }}">
+                            <h3>{{ $project.title }}</h3>
+                            <p>{{ $project.category }}</p>
+                        </div>
+                    </a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

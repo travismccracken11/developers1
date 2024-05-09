@@ -1,0 +1,8 @@
+title: "Swift SDK"
+description: "The Swift SDK for interacting with a Hashgraph based network:
+    the official distributed consensus platform built using the Hashgraph consensus algorithm for fast, fair, and secure transactions."
+gitHubRepo: "hashgraph/hedera-sdk-swift"
+logo: "swift-sdk.svg"
+url: /projects/sdk-swift
+state: "sandbox"
+category: "SDK"
